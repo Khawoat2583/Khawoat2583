@@ -1,4 +1,11 @@
-<h2 align="center">Hi 👋! My name is Bhusun Ketklieng and I'm a Computer engineering & Technology Student, from Benjamarachutit School</h2>
+<h2 align="center">Hi 👋! My name is Bhusun Ketklieng and I'm a Student, from Benjamarachutit School</h2>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=%CE%9Ah%CE%B1%CF%89%CE%A9%CE%B1%CF%84&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
+
 ###
 
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzBsMDNoOGc5cG13ajFrMm9lNzlheWNmMGRoMHRha2tzNjFmOHN4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vL8jVjKkqbVh2qdFj0/giphy.gif"  />
@@ -43,13 +50,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="47" height="35" alt="medium logo"  />
   </a>
 </div>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=blue"  />
-</div>
-
-###
 
 ###

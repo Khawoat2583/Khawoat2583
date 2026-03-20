@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Bhusun Ketklieng and I'm a Student, from Benjamarachutit School</h2>
+<h2 align="center">Hi 👋! My name is Bhusun Ketklieng
 
 ###
 

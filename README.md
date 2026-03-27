@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Bhusun Ketklieng
+<!-- <h2 align="center">Hi 👋! My name is Bhusun Ketklieng
 
 ###
 
@@ -51,4 +51,50 @@
   </a>
 </div>
 
-###
+### -->
+
+
+!!!
+
+<!-- Profile Header -->
+<h1 align="center">Hi there 👋</h1>
+<h3 align="center"> - </h3>
+
+<p align="center">
+  <a href="https://github.com/Khawoat2583">
+    <img src="https://komarev.com/ghpvc/?username=rufflogix&color=brightgreen&style=flat-square" alt="profile views" />
+  </a>
+</p>
+
+---
+
+## 🚀 About Me
+
+---
+
+## 🧠 Tech Stack
+
+| Category | Technologies |
+|-----------|---------------|
+| **Languages** | Python • C • C++ • C# • JavaScript • Node.js|
+| **Frameworks** | PyTorch • TensorFlow|
+| **Databases** |-|
+| **Tools & Platforms** | MacOS • Linux • Windows |
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Khawoat2583"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:khawoat2583@gmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <!-- <a href="https://khawoat2583.github.io"><img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=vercel&logoColor=white"/></a> -->
+</p>
+
+---
+
+---
+
+<p align="center">
+  <em>“-----”</em> 💻
+</p>

@@ -46,7 +46,7 @@
 </p>
 
 <p align="center">
-  <em>“ ”</em> 💻
+  <em>“ ΚhαωΩατ ”</em> 💻
 </p>
 
 

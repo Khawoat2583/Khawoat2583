@@ -111,17 +111,8 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Khawoat2583&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khawoat2583&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
 <div align="center">
   <em>" ΚhαωΩατ "</em> 💻
   <br />
-  <sub>Building, learning, and innovating through technology. 🚀</sub>
+  <sub> N/A </sub>
 </div>

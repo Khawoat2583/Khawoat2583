@@ -89,6 +89,9 @@
 * 👨‍🏫 **Teaching Assistant — Computer & Innovation Camp**
   Assisted in organizing and teaching computer and innovation activities for SMTP, SMTE, and EP programs at Benjamarachutit School.
 
+- 🧑‍💻 **System Administrator — DPST Benjamarachutit School**  
+  Responsible for system administration, maintenance, and technical support for the school's DPST program.
+
 * 🧑‍💻 **AI/ML & Data Science Intern**
   Participated in advanced AI/ML and Data Science internship activities at Kasetsart University.
 

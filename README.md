@@ -87,7 +87,7 @@
   Taught basic Python programming and introductory AI/ML topics to students at DPST Benjamarachutit School.
 
 * 👨‍🏫 **Teaching Assistant — Computer & Innovation Camp**
-  Assisted in organizing and teaching computer and innovation activities for SMTP, SMTE, and EP programs at Benjamarachutit School.
+  Assisted in organizing and teaching computer and innovation activities for SMTP, SMTE, and EP programmes at Benjamarachutit School.
 
 - 🧑‍💻 **System Administrator — DPST Benjamarachutit School**  
   Responsible for system administration, maintenance, and technical support for the school's DPST program.

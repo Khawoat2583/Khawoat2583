@@ -90,7 +90,7 @@
   Assisted in organizing and teaching computer and innovation activities for SMTP, SMTE, and EP programmes at Benjamarachutit School.
 
 - 🧑‍💻 **System Administrator — DPST Benjamarachutit School**  
-  Responsible for system administration, maintenance, and technical support for the school's DPST program.
+  Responsible for system administration, maintenance, and technical support for the school's DPST programme.
 
 * 🧑‍💻 **AI/ML & Data Science Intern**
   Participated in advanced AI/ML and Data Science internship activities at Kasetsart University.
